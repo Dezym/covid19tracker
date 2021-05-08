@@ -1,0 +1,14 @@
+.formControl {
+    width: 30%;
+    margin-bottom: 50px !important;
+    
+  }
+ 
+
+  .container {
+    display: flex;
+    justify-content: center;
+    width: 75%;
+
+  }
+    
